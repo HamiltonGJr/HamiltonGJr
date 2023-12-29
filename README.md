@@ -33,6 +33,6 @@ Minha abordagem é sempre buscar as melhores soluções para os desafios apresen
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamiltonGJr&theme=transparent&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HamiltonGJr&layout=compact&bg_color=000&border_color=DD0031&title_color=E94D5F&text_color=FFF)
 
-### Meus Principais Desafios de Projeto DIO
+### Meus Principais Desafios de Projeto 
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=HamiltonGJr&repo=dio-lab-open-source&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF)](https://github.com/HamiltonGJr/dio-lab-open-source)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=HamiltonGJr&repo=projeto_emocionometro&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF)](https://github.com/HamiltonGJr/projeto_emocionometro)
