@@ -13,7 +13,6 @@ Minha abordagem é sempre buscar as melhores soluções para os desafios apresen
 
 ### Conecte-se comigo
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-DD0031?style=for-the-badge)](https://web.dio.me/users/hamilton27089/?tab=achievements)
 [![E-mail](https://img.shields.io/badge/-Email-DD0031?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:hamilton27089@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-DD0031?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamilton-jr/)
 [![Instagram](https://img.shields.io/badge/-Instagram-DD0031?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https://www.instagram.com/hamilton_gsjr/)
