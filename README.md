@@ -34,5 +34,5 @@ Minha abordagem é sempre buscar as melhores soluções para os desafios apresen
 
 ### Meus Principais Desafios de Projeto 
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=HamiltonGJr&repo=projeto_emocionometro&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF)](https://github.com/HamiltonGJr/projeto_emocionometro)
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=HamiltonGJr&repo=culture_power&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF)](https://github.com/HamiltonGJr/culture_power)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=HamiltonGJr&repo=projeto_emocionometro&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF)](https://github.com/HamiltonGJr/projeto_emocionometro)
