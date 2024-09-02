@@ -35,6 +35,7 @@ I have a proactive approach to finding the best solutions for challenges, valuin
 
 ### My Major Project Challenges
 
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=HamiltonGJr&repo=w3_ERP&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF)](https://github.com/HamiltonGJr/w3_ERP)
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Team-Tech-School&repo=back-end-metavagas&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF)](https://github.com/Team-Tech-School/back-end-metavagas)
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=HamiltonGJr&repo=culture_power&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF)](https://github.com/HamiltonGJr/culture_power)
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=HamiltonGJr&repo=projeto_emocionometro&bg_color=000&border_color=DD0031&show_icons=true&icon_color=DD0031&title_color=E94D5F&text_color=FFF)](https://github.com/HamiltonGJr/projeto_emocionometro)
